@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Gustavo Falconi 😎
 
-- 🔭 Atualmente trabalho com suporte service/help desk
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
-- 📫 Estou estudando JAVA e o pacote básico front-end (HTML5, CSS, JAVASCRIPT)
+- 👨‍💻 Atualmente trabalho com suporte service/help desk
+- 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
+- 📚 Estou estudando JAVA e o pacote básico front-end (HTML5, CSS, JAVASCRIPT)
 - 😄 Pronomes: Ele/dele
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokemons
 
