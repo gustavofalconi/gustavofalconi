@@ -4,7 +4,7 @@
 - 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
 - 📚 Estou estudando JAVA e o pacote básico front-end (HTML5, CSS, JAVASCRIPT)
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokemons
+- ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
