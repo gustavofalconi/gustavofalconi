@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalho com suporte service/help desk
 - 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
-- 📚 Estou estudando para ser um programador mobile
+- 📚 Estou estudando para ser um programador back-end
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
 <div align="center">
