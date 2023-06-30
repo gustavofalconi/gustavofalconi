@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalho com suporte service/help desk
 - 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
-- 📚 Estou estudando para ser um programador back-end
+- 📚 Estou estudando para ser um programador full stack
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
 <div align="center">
@@ -12,10 +12,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Falconi-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Falconi-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Falconi-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Falconi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Falconi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Falconi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Falconi-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
