@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Gustavo Falconi 😎
 
-- 👨‍💻 Atualmente trabalho com suporte service/help desk
+- 👨‍💻 Atualmente trabalho com Arquitetura de Ti no Banco Bradesco
 - 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
-- 📚 Estou estudando para ser um programador full stack
+- 📚 Estou curtindo a área de arquitetura e pretendo continuar nela
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
 <div align="center">
