@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalho com Arquitetura de Ti no Banco Bradesco
 - 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
-- 📚 Estou estudando a plataforma de cloud Azure e indo atrás da certificação AZ-305
+- 📚 Azure Certified - AZ 900, DP-900, SC-900, AZ-104, AZ-305
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
 <div align="center">
