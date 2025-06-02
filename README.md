@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Gustavo Falconi 😎
 
 - 👨‍💻 Atualmente trabalho com Arquitetura de Ti no Banco Bradesco
-- 💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
+- 💻 Formado em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP)
 - 📚 Azure Certified - AZ 900, DP-900, SC-900, AZ-104, AZ-305
 - ⚡ Fun fact: Sei o nome de todos os 151 primeiros pokémons
 
